@@ -1,0 +1,11 @@
+django
+django-ninja
+django-extensions
+pydantic
+pydantic-core
+sqlparse
+typing-extensions
+tzdata
+annotated-types
+asgiref
+psycopg2
